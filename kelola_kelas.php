@@ -214,25 +214,25 @@ function e($nilai) {
         <!-- SIDEBAR: TIDAK DITAMBAH ATAU DIKURANGI -->
         <aside class="col-md-3 col-lg-2 sidebar">
 
-            <h4>My Website</h4>
+            <h4>Sistem Pelanggaran</h4>
 
             <ul class="nav nav-pills flex-column">
 
                 <li class="nav-item">
                     <a href="dashboard.php" class="nav-link">
-                        &#8962; Dashboard
+                        ⌂ Dashboard
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="kelola_siswa.php" class="nav-link">
-                        &#9813; Data Siswa
+                        ♟ Data Siswa
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="kelola_guru.php" class="nav-link">
-                        &#9813; Data Guru
+                      ♟ Data Guru
                     </a>
                 </li>
 

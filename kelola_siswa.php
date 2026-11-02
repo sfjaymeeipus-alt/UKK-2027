@@ -190,7 +190,7 @@ function e($nilai) {
 
         <!-- SIDEBAR -->
         <aside class="col-md-3 col-lg-2 sidebar">
-            <h4>My Website</h4>
+            <h4>Sistem Pelanggaran</h4>
 
             <ul class="nav nav-pills flex-column">
 
@@ -202,19 +202,19 @@ function e($nilai) {
 
                 <li class="nav-item">
                     <a href="kelola_siswa.php" class="nav-link active">
-                        &#9813; Data Siswa
+                        ♟ Data Siswa
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="kelola_guru.php" class="nav-link">
-                        &#9813; Data Guru
+                         ♟ Data Guru
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="kelola_kelas.php" class="nav-link">
-                        &#9638; Data Kelas
+                          ▦  Data Kelas
                     </a>
                 </li>
 
